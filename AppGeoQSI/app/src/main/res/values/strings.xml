@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppGeoQSI</string>
+    <string name="capital">¿Es Buenos Aires la capital de argentina?</string>
+    <string name="rspt_si">si</string>
+    <string name="rspt_no">no</string>
+    <string name="next">Siguiente</string>
+</resources>
